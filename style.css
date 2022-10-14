@@ -1,0 +1,53 @@
+@font-face {
+    font-family: UnboundedBlack;
+    src: url(Unbounded-Black.ttf);
+}
+
+@font-face {
+    font-family: UnboundedBlackBold;
+    src: url(Unbounded-Bold.ttf);
+}
+
+@font-face {
+    font-family: UnboundedExtraLight;
+    src: url(Unbounded-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: UnboundedLight;
+    src: url(Unbounded-Light.ttf);
+}
+
+@font-face {
+    font-family: UnboundedMedium;
+    src: url(Unbounded-Medium.ttf);
+}
+
+@font-face {
+    font-family: UnboundedRegular;
+    src: url(Unbounded-Regular.ttf);
+}
+  
+.unbounded-black {
+    font-family: UnboundedBlack;
+}
+
+.unbounded-bold {
+    font-family: UnboundedBold;
+}
+
+.unbounded-extra-light {
+    font-family: UnboundedExtraLight;
+}
+
+.unbounded-light {
+    font-family: UnboundedLight;
+}
+
+.unbounded-medium {
+    font-family: UnboundedMedium;
+}
+
+.unbounded-regular {
+    font-family: UnboundedRegular;
+}
